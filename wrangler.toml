@@ -1,6 +1,0 @@
-name = "burndrop-frontend"
-compatibility_date = "2026-04-21"
-
-[assets]
-directory = "."
-exclude = [".git", ".wrangler", "wrangler.toml"]
